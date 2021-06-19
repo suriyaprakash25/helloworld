@@ -1,0 +1,15 @@
+public class Jenkins
+{
+jenkins()
+{
+a=1;
+b=2;
+}
+Public static void main (string [] args)
+{
+Jenkins jenkins= new Jenkins;
+System.out.println(a);
+System.out.println(b);
+
+}
+}
